@@ -213,14 +213,4 @@ Since `template.yml` took care of provisioning all the necessary components from
 
   ![Postman / Create new book](images/postman3.png)
 
-## Want to contribute? <!-- omit in toc -->
 
-Check our [contribution guidelines](CONTRIBUTING.md) before submitting a pull request. Any contribution must be done to the `develop` branch.
-
-## Security <!-- omit in toc -->
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
-
-## License <!-- omit in toc -->
-
-This library is licensed under the MIT-0 License. See the LICENSE file.
